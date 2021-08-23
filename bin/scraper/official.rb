@@ -24,6 +24,7 @@ class MemberList
     NAME_MAP = {
       'Aiyaz Sayed Khaiyum' => 'Aiyaz Sayed-Khaiyum',
       'Rosy Ajbar'          => 'Rosy Akbar',
+      'Praveen Bala'        => 'Parveen Bala',
     }.freeze
 
     def name
