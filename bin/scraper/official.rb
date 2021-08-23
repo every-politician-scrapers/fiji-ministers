@@ -4,6 +4,12 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class String
+  def titlecase
+    split(/([[:alpha:]]+)/).map(&:capitalize).join
+  end
+end
+
 class MemberList
   class Member
     POSITION_MAP = {
@@ -17,7 +23,7 @@ class MemberList
 
     # Only appears in the image, but thankfully is also in the URL of it
     def name
-      img.split('/').last.delete_prefix('HON.-').split('-300').first.gsub('-', ' ')
+      img.split('/').last.delete_prefix('HON.-').split('-300').first.gsub('-', ' ').titlecase
     end
 
     def position
