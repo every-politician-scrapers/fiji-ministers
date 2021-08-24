@@ -1,8 +1,8 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1950-01-01T00:00:00Z,7,http://www.pmoffice.gov.fj/ministers-2/,Q4818599,Attorney General,Q4699401-478ED9BA-824F-4E35-9A04-3735B04E75BF
-Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1950-01-01T00:00:00Z,7,http://www.pmoffice.gov.fj/ministers-2/,Q108210022,Minister for Civil Service,Q4699401-C6145FF0-80C5-486F-9018-D122EEB3145C
-Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1950-01-01T00:00:00Z,7,http://www.pmoffice.gov.fj/ministers-2/,Q108210020,Minister for Communications,Q4699401-BA8B40CB-6F33-47E6-A47C-95CE1DE6642D
-Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1950-01-01T00:00:00Z,7,http://www.pmoffice.gov.fj/ministers-2/,Q97183850,Minister for Economy,Q4699401-3F936B0D-FECB-43B2-BFEC-DFEBF935EC5D
+Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1965-09-24T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q4818599,Attorney General,Q4699401-478ED9BA-824F-4E35-9A04-3735B04E75BF
+Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1965-09-24T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q108210022,Minister for Civil Service,Q4699401-C6145FF0-80C5-486F-9018-D122EEB3145C
+Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1965-09-24T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q108210020,Minister for Communications,Q4699401-BA8B40CB-6F33-47E6-A47C-95CE1DE6642D
+Q4699401,Aiyaz Sayed-Khaiyum,Aiyaz Sayed-Khaiyum,male,1965-09-24T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q97183850,Minister for Economy,Q4699401-3F936B0D-FECB-43B2-BFEC-DFEBF935EC5D
 Q18210195,Faiyaz Koya,Faiyaz Koya,male,,,http://www.pmoffice.gov.fj/ministers-2/,Q108211419,"Minister for Commerce, Trade, Tourism & Transport",Q18210195-DFA78CBE-13C7-4B13-B91D-20B592182F54
 Q58974724,Ifereimi Waqainabete,Ifereimi Waqainabete,male,1973-01-01T00:00:00Z,9,http://www.pmoffice.gov.fj/ministers-2/,Q108210923,Minister for Health and Medical Services,Q58974724-09F38387-BC4F-44C0-8A4E-9D05FA47D055
 Q59149050,Inia Seruiratu,Inia Seruiratu,male,,,http://www.pmoffice.gov.fj/ministers-2/,Q108210409,"Minister for Defence, National Security and Policing",Q59149050-4F65A33E-0BDB-4395-B932-7CD9D4F0A885
@@ -14,7 +14,7 @@ Q57830,Josaia Voreqe Bainimarama,Frank Bainimarama,male,1954-04-27T00:00:00Z,11,
 Q57830,Josaia Voreqe Bainimarama,Frank Bainimarama,male,1954-04-27T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q6865823,Minister for iTaukei Affairs,Q57830-3349F3A1-6325-4129-BA80-1D25A9F1107C
 Q57830,Josaia Voreqe Bainimarama,Frank Bainimarama,male,1954-04-27T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q1469153,Prime Minister,Q57830-29CE3E8A-0E7E-4124-82B5-2E10CA14CF22
 Q19665719,Mahendra Reddy,Mahendra Reddy,male,,,http://www.pmoffice.gov.fj/ministers-2/,Q108211133,"Minister for Agriculture, Waterways and Environment",Q19665719-320E331D-AB91-4534-9839-BAA6B9056F52
-Q18166062,Mereseini Vuniwaqa,Mereseini Vuniwaqa,female,,,http://www.pmoffice.gov.fj/ministers-2/,Q108210680,"Minister for Women, Children and Poverty Alleviation",Q18166062-F6891F3F-DB4E-4068-AF55-55483CCE6864
+Q18166062,Mereseini Vuniwaqa,Mereseini Vuniwaqa,female,1974-06-18T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q108210680,"Minister for Women, Children and Poverty Alleviation",Q18166062-F6891F3F-DB4E-4068-AF55-55483CCE6864
 Q59327455,Osea Naiqamu,Osea Naiqamu,male,,,http://www.pmoffice.gov.fj/ministers-2/,Q108211207,Minister for Forestry,Q59327455-AF15AC4B-161B-43F9-8243-8259CFFEAA2F
 Q7238848,Parveen Bala,Parveen Bala,male,,,http://www.pmoffice.gov.fj/ministers-2/,Q108210805,"Minister for Employment, Productivity, Industrial Relations, Youth and Sports",Q7238848-55B792AE-4147-4F5E-83A9-776AC7B61EE7
 Q59160142,Premila Kumar,Premila Kumar,female,1962-04-02T00:00:00Z,11,http://www.pmoffice.gov.fj/ministers-2/,Q108210358,"Minister for Local Government, Housing and Community Development",Q59160142-BD53A709-BE94-4495-9FDD-C20FBF108146
