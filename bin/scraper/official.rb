@@ -13,11 +13,27 @@ end
 class MemberList
   class Member
     POSITION_MAP = {
-      'Minister for iTaukei Affairs, Sugar Industry and Foreign Affairs' => [
-        'Minister for iTaukei Affairs', 'Minister for Sugar Industry', 'Minister for Foreign Affairs'
+      'Minister for iTaukei Affairs, Sugar Industry and Foreign Affairs'                       => [
+        'Minister for iTaukei Affairs',
+        'Minister for Sugar Industry',
+        'Minister for Foreign Affairs'
       ],
-      'Minister for Economy, Civil Service and Communications'           => [
-        'Minister for Economy', 'Minister for Civil Service', 'Minister for Communications'
+      'Minister for iTaukei Affairs, Sugar Industry, Foreign Affairs and Forestry'             => [
+        'Minister for iTaukei Affairs',
+        'Minister for Sugar Industry',
+        'Minister for Foreign Affairs',
+        'Minister for Forestry'
+      ],
+      'Minister for Economy, Civil Service and Communications'                                 => [
+        'Minister for Economy',
+        'Minister for Civil Service',
+        'Minister for Communications'
+      ],
+      'Minister for Economy, Civil Service, Communications, Housing and Community Development' => [
+        'Minister for Economy',
+        'Minister for Civil Service',
+        'Minister for Communications',
+        'Minister for Housing and Community Development'
       ],
     }.freeze
 
