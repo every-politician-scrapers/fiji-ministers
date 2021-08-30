@@ -35,6 +35,10 @@ class MemberList
         'Minister for Communications',
         'Minister for Housing and Community Development'
       ],
+      'Minister for Education, Heritage and Arts and Local Government'                         => [
+        'Minister for Education, Heritage and Arts',
+        'Minister for Local Government'
+      ],
     }.freeze
 
     NAME_MAP = {
