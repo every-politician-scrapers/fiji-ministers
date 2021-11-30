@@ -248,47 +248,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "state": "autocollapse",
-          "template": "fiji first"
-        },
-        {
-          "template": "fiji-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Ministry of Labour profile",
-            "links": [
-              {
-                "text": "Ministry of Labour profile",
-                "type": "external",
-                "site": "http://www.labour.gov.fj/management.htm"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

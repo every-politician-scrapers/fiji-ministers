@@ -331,22 +331,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "state": "autocollapse",
-          "template": "fiji first"
-        },
-        {
-          "template": "fiji-politician-stub"
-        }
-      ]
     }
   ]
 }
