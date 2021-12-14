@@ -370,11 +370,21 @@
             ]
           },
           "office3": {
-            "text": "Acting President of Fiji",
+            "text": "President of Fiji",
             "links": [
               {
                 "type": "internal",
                 "page": "President of Fiji"
+              }
+            ]
+          },
+          "status3": {
+            "text": "Acting",
+            "links": [
+              {
+                "text": "Acting",
+                "type": "internal",
+                "page": "Acting president"
               }
             ]
           },
@@ -445,7 +455,10 @@
             ]
           },
           "office5": {
-            "text": "Minister for Immigration, National Security and Defence \nActing"
+            "text": "Minister for Immigration, National Security and Defence"
+          },
+          "status5": {
+            "text": "Acting"
           },
           "term_start5": {
             "text": "31 August 2016"
