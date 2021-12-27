@@ -1,9 +1,11 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q76292543,President of Fiji,Q712,Q712,,Q48894,1987-12-05,,,,President of Fiji
 Q302694,Vice-President of Fiji,Q712,,,,1990,,,,Vice-President of Fiji
+Q1469153,Prime Minister of Fiji,Q712,Q712,,,1970-10-10,,Q5096845,,Prime Minister of Fiji
 Q108211133,"Minister for Agriculture, Waterways and Environment",Q712,Q712,,,,,,,
 Q108210022,Minister for Civil Service,Q712,Q712,,,,,,,
 Q108211419,"Minister for Commerce, Trade, Tourism and Transport",Q712,Q712,,,,,,,
+Q108210020,Minister for Communications and Public Enterprise,Q712,Q712,,,,,,,
 Q108210409,"Minister for Defence, National Security and Policing",Q712,Q712,,,,,,,
 Q97183850,Minister of Economy,Q712,Q712,,,,,,,Minister of Economy (Fiji)
 Q108210873,"Minister for Education, Heritage and Arts",Q712,Q712,,,,,,,
@@ -23,4 +25,5 @@ Q108210408,"Minister for Rural, Maritime Development and Disaster Management",Q7
 Q108212406,Minister for Sugar,Q712,Q712,,,,,,,
 Q108210680,"Minister for Women, Children and Poverty Alleviation",Q712,Q712,,,,,,,
 Q4818599,Attorney-General of Fiji,Q712,Q712,,,,,,,Attorney General of Fiji
+Q109469054,Speaker of the Parliament of Fiji,,Q712,,,,,Q7574272,,
 Q109469083,Governor of the Reserve Bank of Fiji,Q712,,,,,,,,
