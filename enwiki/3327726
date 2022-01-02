@@ -138,48 +138,6 @@
             "text": "Minister for Local Government, Housing and Environment"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.gov.fj/members-of-parliament/",
-          "title": "Members of Parliament",
-          "website": "Parliament of the Republic of Fiji",
-          "language": "en-US",
-          "access-date": "2020-02-03",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.rnzi.com/pages/news.php?op=read&id=44529",
-          "title": "Ba ex-mayor says Fiji municipal reform was expected",
-          "date": "2 February 2009",
-          "publisher": "Radio New Zealand International",
-          "accessdate": "29 December 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Nasinu mayor wins",
-          "url": "http://www.fijitimes.com/story.aspx?ref=archive&id=60753",
-          "newspaper": "Fiji Times",
-          "date": "15 April 2007",
-          "accessdate": "28 December 2010",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Bala is new Lautoka Special Administrator",
-          "url": "http://www.radiofiji.com.fj/fijigold/fullstory.php?id=27595",
-          "newspaper": "Fiji Gold",
-          "date": "8 May 2010",
-          "accessdate": "28 December 2010",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110930192513/http://www.radiofiji.com.fj/fijigold/fullstory.php?id=27595",
-          "archive-date": "30 September 2011",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
