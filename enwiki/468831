@@ -471,49 +471,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.parliament.gov.fj/ratu-epeli-nailatikau-is-new-speaker/",
-          "title": "Ratu Epeli Nailatikau is new Speaker",
-          "last": "11 February",
-          "last2": "2019",
-          "date": "2019-02-11",
-          "website": "Parliament of the Republic of Fiji",
-          "access-date": "2020-02-05",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
