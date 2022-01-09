@@ -133,6 +133,10 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "df": "y",
           "year": "1965",
           "month": "9",
@@ -367,6 +371,11 @@
                 "text": "Suva",
                 "type": "internal",
                 "page": "Suva, Fiji"
+              },
+              {
+                "text": "Fiji",
+                "type": "internal",
+                "page": "Colony of Fiji"
               }
             ]
           },
