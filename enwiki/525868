@@ -246,11 +246,11 @@
           "template": "update"
         },
         {
-          "date": "January 2013",
+          "date": "January 2022",
           "template": "use british english"
         },
         {
-          "date": "December 2021",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {
@@ -368,6 +368,38 @@
                 "page": "Inia Seruiratu"
               }
             ]
+          },
+          "office2": {
+            "text": "Leader of FijiFirst",
+            "links": [
+              {
+                "type": "internal",
+                "page": "FijiFirst"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Secretary-General"
+          },
+          "1namedata2": {
+            "text": "Aiyaz Sayed-Khaiyum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aiyaz Sayed-Khaiyum"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "31 March 2014"
+          },
+          "predecessor2": {
+            "text": "Party established",
+            "formatting": {
+              "italic": [
+                "Party established"
+              ]
+            }
           },
           "office3": {
             "text": "President of Fiji",
