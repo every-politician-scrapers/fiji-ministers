@@ -193,7 +193,7 @@
             "text": "6 October 2014"
           },
           "president": {
-            "text": "Ratu Epeli Nailatikau\nGeorge Konrote",
+            "text": "Ratu Epeli Nailatikau\nGeorge Konrote\nWiliame Katonivere",
             "links": [
               {
                 "text": "Ratu Epeli Nailatikau",
@@ -203,6 +203,10 @@
               {
                 "type": "internal",
                 "page": "George Konrote"
+              },
+              {
+                "type": "internal",
+                "page": "Wiliame Katonivere"
               }
             ]
           },
@@ -225,28 +229,17 @@
             ]
           },
           "president1": {
-            "text": "Ratu Josefa Iloilo\nRatu Epeli Nailatikau",
+            "text": "Ratu Josefa Iloilo\nEpeli Nailatikau",
             "links": [
               {
                 "text": "Ratu Josefa Iloilo",
                 "type": "internal",
                 "page": "Josefa Iloilo"
-              },
-              {
-                "text": "Ratu Epeli Nailatikau",
-                "type": "internal",
-                "page": "Epeli Nailatikau"
               }
             ]
           },
           "primeminister1": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
+            "text": "Frank Bainimarama"
           },
           "term_start1": {
             "text": "8 January 2007"
@@ -264,13 +257,7 @@
             ]
           },
           "successor1": {
-            "text": "Faiyaz Koya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faiyaz Koya"
-              }
-            ]
+            "text": "Faiyaz Koya"
           },
           "office2": {
             "text": "Minister for Economy",
@@ -286,36 +273,13 @@
             "text": "6 October 2014"
           },
           "president2": {
-            "text": "Ratu Epeli Nailatikau\nGeorge Konrote",
-            "links": [
-              {
-                "text": "Ratu Epeli Nailatikau",
-                "type": "internal",
-                "page": "Epeli Nailatikau"
-              },
-              {
-                "type": "internal",
-                "page": "George Konrote"
-              }
-            ]
+            "text": "Epeli Nailatikau\nGeorge Konrote"
           },
           "primeminister2": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
+            "text": "Frank Bainimarama"
           },
           "predecessor2": {
-            "text": "Frank Bainimarama as Minister of Finance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
+            "text": "Frank Bainimarama (as Minister of Finance)"
           },
           "office3": {
             "text": "Minister for Communications and Public Enterprise"
@@ -336,30 +300,10 @@
             "text": "6 December 2006"
           },
           "president5": {
-            "text": "Ratu Josefa Iloilo\nRatu Epeli Nailatikau\nGeorge Konrote",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ratu Josefa Iloilo"
-              },
-              {
-                "type": "internal",
-                "page": "Ratu Epeli Nailatikau"
-              },
-              {
-                "type": "internal",
-                "page": "George Konrote"
-              }
-            ]
+            "text": "Ratu Josefa Iloilo\nRatu Epeli Nailatikau\nGeorge Konrote"
           },
           "primeminister5": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
+            "text": "Frank Bainimarama"
           },
           "birth_date": {
             "text": "September 24, 1965"
