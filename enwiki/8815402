@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Aiyaz Sayed-Khaiyum, (born 24 September 1965 ) is a Fijian politician and a Cabinet Minister.",
+              "text": "Aiyaz Sayed-Khaiyum, (born 24 September 1965 ) is a Fijian politician and a cabinet minister.",
               "links": [
                 {
                   "text": "Fijian",
@@ -37,7 +37,7 @@
                   "page": "Fiji"
                 },
                 {
-                  "text": "Cabinet Minister",
+                  "text": "cabinet minister",
                   "type": "internal",
                   "page": "Cabinet of Fiji"
                 }
@@ -49,7 +49,7 @@
               }
             },
             {
-              "text": "He is the Fijian Attorney-General and the Minister for Economy, Civil Service and Communications, and also serves the Minister responsible for climate change.",
+              "text": "He is the Fijian attorney general and the Minister for Economy, Civil Service and Communications, and also serves the minister responsible for climate change.",
               "links": [
                 {
                   "text": "Minister for Economy",
@@ -66,7 +66,7 @@
         {
           "sentences": [
             {
-              "text": "Prior to his appointment as a Cabinet Minister following FijiFirst's general election victory in September 2014, he was the Fijian Attorney-General and the Minister for Justice, Anti-Corruption, Public Enterprises, Communications, Civil Aviation, and the Minister responsible for Elections under the Bainimarama Government."
+              "text": "Prior to his appointment as a cabinet minister following FijiFirst's general election victory in September 2014, he was the Fijian attorney general and the Minister for Justice, Anti-Corruption, Public Enterprises, Communications, Civil Aviation, and the Minister responsible for Elections under the Bainimarama Government."
             }
           ]
         },
@@ -119,6 +119,19 @@
                 {
                   "type": "internal",
                   "page": "Asian Development Bank"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following Frank Bainimarama's recovery from heart surgery in January 2022, Sayed-Khaiyum was named Acting Prime Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frank Bainimarama"
                 }
               ]
             }
@@ -176,7 +189,7 @@
             ]
           },
           "image": {
-            "text": "File:AG Headshot 2019 Compressed 1c6d9e08fe0cbb.jpg"
+            "text": "AG Headshot 2019 Compressed 1c6d9e08fe0cbb.jpg"
           },
           "caption": {
             "text": "Sayed-Khaiyum in 2020"
