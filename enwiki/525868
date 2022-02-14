@@ -234,6 +234,22 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2022, Bainimarama underwent heart surgery in Melbourne, Australia."
+            },
+            {
+              "text": "During his recovery, Aiyaz Sayed-Khaiyum has been named Acting Prime Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aiyaz Sayed-Khaiyum"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
