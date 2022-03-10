@@ -1,254 +1,28 @@
 {
-  "title": "Rosy Akbar",
-  "pageID": 43939068,
-  "categories": [
-    "Indian members of the Parliament of Fiji",
-    "FijiFirst politicians",
-    "Government ministers of Fiji",
-    "Fijian Muslims",
-    "Politicians from Ba Province",
-    "21st-century Fijian women politicians",
-    "Women government ministers of Fiji",
-    "Living people",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rosy Sofia Akbar is a Fijian politician and Member of the Parliament of Fiji who is currently serving as the Minister for Women, Children and Poverty Alleviation.",
-              "links": [
-                {
-                  "text": "Fijian",
-                  "type": "internal",
-                  "page": "Fiji"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Fiji"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Rosy Sofia Akbar"
-                ]
-              }
-            },
-            {
-              "text": "She is originally from Ba and before entering politics she was Vice-Principal of A.D. Patel College.",
-              "links": [
-                {
-                  "text": "Ba",
-                  "type": "internal",
-                  "page": "Ba (Open Constituency, Fiji)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Akbar was elected to Parliament in the 2014 election, in which she won 990 votes, and was appointed Minister for Women, Children and Poverty Alleviation.",
-              "links": [
-                {
-                  "text": "Parliament",
-                  "type": "internal",
-                  "page": "Parliament of Fiji"
-                },
-                {
-                  "text": "2014 election",
-                  "type": "internal",
-                  "page": "2014 Fijian general election"
-                },
-                {
-                  "text": "Women, Children and Poverty Alleviation",
-                  "type": "internal",
-                  "page": "Ministry of Women, Children and Poverty Alleviation"
-                }
-              ]
-            },
-            {
-              "text": "Following a cabinet reshuffle in September 2016 she was appointed Minister for Health and Medical Services."
-            },
-            {
-              "text": "She was re-elected at the 2018 election, winning 705 votes, and was appointed Minister of Education.",
-              "links": [
-                {
-                  "text": "2018 election",
-                  "type": "internal",
-                  "page": "2018 Fijian general election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Fijian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Rosy Sofia Akbar"
-          },
-          "honorific-suffix": {
-            "text": "Minister",
-            "links": [
-              {
-                "text": "Minister",
-                "type": "internal",
-                "page": "Parliament of Fiji"
-              }
-            ]
-          },
-          "image": {
-            "text": "Rosy Sofia Akbar 2014.jpg"
-          },
-          "caption": {
-            "text": "Akbar in 2014"
-          },
-          "office": {
-            "text": "Minister for Women, Children and Poverty Alleviation"
-          },
-          "primeminister": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 August 2021"
-          },
-          "predecessor": {
-            "text": "Mereseini Vuniwaqa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mereseini Vuniwaqa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "24 September 2016"
-          },
-          "term_end1": {
-            "text": "20 November 2018"
-          },
-          "successor1": {
-            "text": "Mereseini Vuniwaqa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mereseini Vuniwaqa"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Education, Heritage and Arts"
-          },
-          "primeminister2": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "22 November 2018"
-          },
-          "term_end2": {
-            "text": "24 August 2021"
-          },
-          "predecessor2": {
-            "text": "Aiyaz Sayed-Khaiyum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aiyaz Sayed-Khaiyum"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Premila Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premila Kumar"
-              }
-            ]
-          },
-          "known_for": {
-            "text": "Former Vice-Principal of A.D. Patel College"
-          },
-          "party": {
-            "text": "FijiFirst",
-            "links": [
-              {
-                "type": "internal",
-                "page": "FijiFirst"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Health and Medical Services"
-          },
-          "term_start3": {
-            "text": "10 September 2016"
-          },
-          "term_end3": {
-            "text": "20 November 2018"
-          },
-          "predecessor3": {
-            "text": "Jone Usamate",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jone Usamate"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ifereimi Waqainabete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ifereimi Waqainabete"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Frank Bainimarama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bainimarama"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Rosy Sofia Akbar",
+  "honorific-suffix": "Minister",
+  "image": "Rosy Sofia Akbar 2014.jpg",
+  "caption": "Akbar in 2014",
+  "office": "Minister for Women, Children and Poverty Alleviation",
+  "primeminister": "Frank Bainimarama",
+  "term_start": "24 August 2021",
+  "predecessor": "Mereseini Vuniwaqa",
+  "term_start1": "24 September 2016",
+  "term_end1": "20 November 2018",
+  "successor1": "Mereseini Vuniwaqa",
+  "office2": "Minister for Education, Heritage and Arts",
+  "primeminister2": "Frank Bainimarama",
+  "term_start2": "22 November 2018",
+  "term_end2": "24 August 2021",
+  "predecessor2": "Aiyaz Sayed-Khaiyum",
+  "successor2": "Premila Kumar",
+  "known_for": "Former Vice-Principal of A.D. Patel College",
+  "party": "FijiFirst",
+  "office3": "Minister for Health and Medical Services",
+  "term_start3": "10 September 2016",
+  "term_end3": "20 November 2018",
+  "predecessor3": "Jone Usamate",
+  "successor3": "Ifereimi Waqainabete",
+  "primeminister3": "Frank Bainimarama"
 }
