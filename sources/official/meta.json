@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Fiji",
+      "id": "Q712"
+    },
+    "cabinet": {
+      "id": "Q108209435",
+      "start": "2018-11-22",
+      "parent": "Q5015511"
+    },
+    "source": {
+        "url":   "http://www.pmoffice.gov.fj/ministers-2/",
+        "title": "Ministers | Office of the Prime Minister Fiji",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/fiji-ministers"
+}
