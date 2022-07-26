@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Speaker of the House of Representatives of Fiji"
+      ],
+      "stated_as": "Speaker of the House of Representatives of Fiji"
+    },
+    "P580": "2001",
+    "P1365": {
+      "links": [
+        "Apenisa Kurisaqila"
+      ],
+      "stated_as": "Apenisa Kurisaqila"
+    },
+    "P582": "2006",
+    "P1366": {
+      "links": [
+        "Pita Nacuva"
+      ],
+      "stated_as": "Pita Nacuva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Fiji"
+      ],
+      "stated_as": "Vice-President of Fiji"
+    },
+    "P580": "2009-04-17",
+    "P1365": {
+      "links": [
+        "Joni Madraiwiwi"
+      ],
+      "stated_as": "Joni Madraiwiwi (2006)"
+    },
+    "P582": "2009-07-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office Abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Fiji"
+      ],
+      "stated_as": "President of Fiji"
+    },
+    "P580": "2009-07-30",
+    "P1365": {
+      "links": [
+        "Josefa Iloilo"
+      ],
+      "stated_as": "Josefa Iloilo"
+    },
+    "P582": "2015-11-12",
+    "P1366": {
+      "links": [
+        "George Konrote"
+      ],
+      "stated_as": "George Konrote"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Fiji"
+      ],
+      "stated_as": "2nd Speaker of the Parliament"
+    },
+    "P580": "2019-02-11",
+    "P1365": {
+      "links": [
+        "Jiko Luveni"
+      ],
+      "stated_as": "Jiko Luveni"
+    }
+  }
+]

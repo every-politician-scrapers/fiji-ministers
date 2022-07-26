@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Local Government, Housing and Community Development"
+    },
+    "P580": "2018-11-22"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education, Heritage and Arts"
+    },
+    "P580": "2021-08-24",
+    "P1365": {
+      "links": [
+        "Rosy Akbar"
+      ],
+      "stated_as": "Rosy Akbar"
+    }
+  }
+]

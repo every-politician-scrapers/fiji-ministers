@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health and Medical Services"
+    },
+    "P580": "2016-09-10",
+    "P1365": {
+      "links": [
+        "Jone Usamate"
+      ],
+      "stated_as": "Jone Usamate"
+    },
+    "P582": "2018-11-20",
+    "P1366": {
+      "links": [
+        "Ifereimi Waqainabete"
+      ],
+      "stated_as": "Ifereimi Waqainabete"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Women, Children and Poverty Alleviation"
+    },
+    "P580": "2016-09-24",
+    "P582": "2018-11-20",
+    "P1366": {
+      "links": [
+        "Mereseini Vuniwaqa"
+      ],
+      "stated_as": "Mereseini Vuniwaqa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education, Heritage and Arts"
+    },
+    "P580": "2018-11-22",
+    "P1365": {
+      "links": [
+        "Aiyaz Sayed-Khaiyum"
+      ],
+      "stated_as": "Aiyaz Sayed-Khaiyum"
+    },
+    "P582": "2021-08-24",
+    "P1366": {
+      "links": [
+        "Premila Kumar"
+      ],
+      "stated_as": "Premila Kumar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Women, Children and Poverty Alleviation"
+    },
+    "P580": "2021-08-24",
+    "P1365": {
+      "links": [
+        "Mereseini Vuniwaqa"
+      ],
+      "stated_as": "Mereseini Vuniwaqa"
+    }
+  }
+]

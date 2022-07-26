@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education, Heritage and Arts"
+    },
+    "P580": "2014-09-25",
+    "P1365": {
+      "links": [
+        "Filipe Bole"
+      ],
+      "stated_as": "Filipe Bole"
+    },
+    "P582": "2017-07-05",
+    "P1366": {
+      "links": [
+        "Aiyaz Sayed-Khaiyum"
+      ],
+      "stated_as": "Aiyaz Sayed-Khaiyum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Agriculture, Waterways and Environment"
+    },
+    "P580": "2017-12-11"
+  }
+]
