@@ -1,0 +1,82 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Justice, Elections and Anti-Corruption"
+    },
+    "P580": "2006-12-06"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Attorney General of Fiji"
+    },
+    "P580": "2007-01-08",
+    "P1365": {
+      "links": [
+        "Qoriniasi Bale"
+      ],
+      "stated_as": "Qoriniasi Bale"
+    },
+    "P582": "2014-09-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Faiyaz Koya"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Attorney General of Fiji"
+    },
+    "P1545": "33",
+    "P580": "2014-10-06",
+    "P1365": {
+      "links": [
+        "Faiyaz Koya"
+      ],
+      "stated_as": "Faiyaz Koya"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Civil Service"
+    },
+    "P580": "2014-10-06"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Communications and Public Enterprise"
+    },
+    "P580": "2014-10-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economy (Fiji)"
+      ],
+      "stated_as": "Minister for Economy"
+    },
+    "P580": "2014-10-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Frank Bainimarama (as Minister of Finance)"
+    }
+  }
+]

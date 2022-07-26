@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Defence, National Security and Policing"
+    },
+    "P580": "2018-11-22",
+    "P1365": {
+      "links": [
+        "Inoke Kubuabola"
+      ],
+      "stated_as": "Inoke Kubuabola"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Fiji)"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2019-01-28",
+    "P1365": {
+      "links": [
+        "Frank Bainimarama"
+      ],
+      "stated_as": "Frank Bainimarama"
+    },
+    "P582": "2020-04-16"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Rural, Maritime Development and Disaster Management"
+    },
+    "P580": "2020-04-16"
+  }
+]
